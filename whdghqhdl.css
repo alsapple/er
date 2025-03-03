@@ -1,6 +1,18 @@
 a {
     text-decoration-line: none;
   }
+  a:link {
+    color : black;
+  }
+  a:visited {
+    color : black;
+  }
+  a:hover {
+    color : rgb(215, 154, 255);
+  }
+  a:active {
+    color : rgb(215, 154, 255)
+  }
 body {
     text-align: center; 
   }
